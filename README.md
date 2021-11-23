@@ -1,2 +1,2 @@
-# Lab1
-Git Training!
+
+# Git Training!
