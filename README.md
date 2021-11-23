@@ -1,2 +1,2 @@
-# tmp
-Lab1: Git Training
+# Lab1
+Git Training
